@@ -20,7 +20,7 @@ const Contact = () => {
               />
               <h3 className="text-xl font-semibold">Gerencia</h3>
             </div>
-            <p>Tel. +(593) 98 477 7004</p>
+            <p>Tel. +(593) 99 852 3835</p>
             <p>
               E-mail:{" "}
               <Link href="mailto:gerencia@kangooxpress.com">
@@ -58,7 +58,7 @@ const Contact = () => {
               />
               <h3 className="text-xl font-semibold">Ventas</h3>
             </div>
-            <p>Tel. +(593) 98 477 7004</p>
+            <p>Tel. +(593) 99 618 3165</p>
             <p>
               E-mail:{" "}
               <a href="mailto:ventas@kangooxpress.com">
